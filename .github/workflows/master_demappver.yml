@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'Demappver'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D69862269DF4945A418301127173A43 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38463C85FC924A90A4C2E646C08B549F }}
           package: .
